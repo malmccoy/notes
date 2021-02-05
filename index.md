@@ -1,1 +1,1 @@
-[CCNA Notes](CCNA Notes) - Getting Certified
+[CCNA](CCNA) - Getting Certified
