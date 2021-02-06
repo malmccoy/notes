@@ -1,6 +1,6 @@
 # Introduction to TCP/IP Networking
 
-## Quiz answers and explanations
+## Quiz Answers and Explanations
 
  1. **TCP** (Transmission Control Protocol) and **UDP** (User Datagram Protocol) are examples of TCP/IP transport layer protocols.
 | TCP/IP Architecture Layer | Example Protocols        |
